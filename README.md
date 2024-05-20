@@ -1,2 +1,4 @@
-# Machine-Learning-ICP-s
-CS5710,CRN-30562
+# Machine-Learning-ICP's
+CRN-30562
+
+Video Link:
